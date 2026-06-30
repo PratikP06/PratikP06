@@ -32,7 +32,7 @@ Hydrate is a VS Code extension that helps developers build better hydration habi
 - Smart Reminders
 - Progress Tracking
 
-Marketplace: *(Add your marketplace link here)*
+Marketplace: *[Hydrate :](https://marketplace.visualstudio.com/items?itemName=PratikP06.hydrate&ssr=false#overview)*
 
 ---
 
