@@ -18,23 +18,6 @@
 
 ---
 
-## Featured Project
-
-### Hydrate
-
-Hydrate is a VS Code extension that helps developers build better hydration habits while coding.
-
-**Features**
-
-- XP & Level System
-- Daily Streaks
-- Achievements
-- Smart Reminders
-- Progress Tracking
-
-Marketplace: *[Hydrate :](https://marketplace.visualstudio.com/items?itemName=PratikP06.hydrate&ssr=false#overview)*
-
----
 
 ## Portfolio
 
